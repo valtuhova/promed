@@ -52,7 +52,7 @@
                       <tr>
                       <th scope="col">ФИО</th>
                       <th scope="col">Услуга</th>
-                      <th scope="col">Статус заявки</th>
+                      <th scope="col">Статус</th>
                       <th scope="col">Причина отмены заявки </th>
 
                     </tr>
